@@ -1,0 +1,4 @@
+E:\others\Learnwf\Learnwf\LearnwfContent\obj\x86\Debug\LearnwfContent.contentprojResolveAssemblyReference.cache
+E:\others\Learnwf 2.0\Learnwf\LearnwfContent\obj\x86\Debug\LearnwfContent.contentprojResolveAssemblyReference.cache
+E:\others\Learnwf 2.1\Learnwf\LearnwfContent\obj\x86\Debug\LearnwfContent.contentprojResolveAssemblyReference.cache
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\LearnwfContent\obj\x86\Debug\LearnwfContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2016-02-05T01:27:11.9411669+05:30</Time>
+    </Item>
+    <Item>
+      <Source>snd_collect_points.wma</Source>
+      <Name>snd_collect_points</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.xnb</Output>
+      <Extra>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.wma</Extra>
+      <Time>2016-02-05T01:27:12.2536558+05:30</Time>
+    </Item>
+    <Item>
+      <Source>snd_music.mp3</Source>
+      <Name>snd_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.xnb</Output>
+      <Extra>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.wma</Extra>
+      <Time>2016-02-05T01:27:12.8630531+05:30</Time>
+    </Item>
+    <Item>
+      <Source>snd_shoot_paint.mp3</Source>
+      <Name>snd_shoot_paint</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.xnb</Output>
+      <Extra>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.wma</Extra>
+      <Time>2016-02-05T01:27:12.9099306+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_background.jpg</Source>
+      <Name>spr_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_background.xnb</Output>
+      <Time>2016-02-05T01:27:13.0037066+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_ball_blue.png</Source>
+      <Name>spr_ball_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_blue.xnb</Output>
+      <Time>2016-02-05T01:27:13.0349706+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_ball_green.png</Source>
+      <Name>spr_ball_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_green.xnb</Output>
+      <Time>2016-02-05T01:27:13.0974732+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_ball_red.png</Source>
+      <Name>spr_ball_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_red.xnb</Output>
+      <Time>2016-02-05T01:27:13.0974732+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_cannon_barrel.png</Source>
+      <Name>spr_cannon_barrel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_barrel.xnb</Output>
+      <Time>2016-02-05T01:27:13.191192+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_cannon_blue.png</Source>
+      <Name>spr_cannon_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_blue.xnb</Output>
+      <Time>2016-02-05T01:27:13.2068202+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_cannon_green.png</Source>
+      <Name>spr_cannon_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_green.xnb</Output>
+      <Time>2016-02-05T01:27:13.2380932+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_cannon_red.png</Source>
+      <Name>spr_cannon_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_red.xnb</Output>
+      <Time>2016-02-05T01:27:13.3005726+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_can_blue.png</Source>
+      <Name>spr_can_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_blue.xnb</Output>
+      <Time>2016-02-05T01:27:13.1287274+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_can_green.png</Source>
+      <Name>spr_can_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_green.xnb</Output>
+      <Time>2016-02-05T01:27:13.1599468+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_can_red.png</Source>
+      <Name>spr_can_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_red.xnb</Output>
+      <Time>2016-02-05T01:27:13.191192+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_gameover.jpg</Source>
+      <Name>spr_gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_gameover.xnb</Output>
+      <Time>2016-02-05T01:27:13.3474858+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_lives.png</Source>
+      <Name>spr_lives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_lives.xnb</Output>
+      <Time>2016-02-05T01:27:13.3943294+05:30</Time>
+    </Item>
+    <Item>
+      <Source>spr_scorebar.jpg</Source>
+      <Name>spr_scorebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_scorebar.xnb</Output>
+      <Time>2016-02-05T01:27:13.42558+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Titlepage.jpg</Source>
+      <Name>Titlepage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\Titlepage.xnb</Output>
+      <Time>2016-02-05T01:27:11.9880404+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\LearnwfContent\</RootDirectory>
+      <LoggerRootDirectory>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\LearnwfContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-29T23:42:14.0319523+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,141 @@
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Learnwf.exe
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Learnwf.pdb
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.exe
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.pdb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\GameFont.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_background.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_blue.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_green.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_red.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_barrel.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_blue.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_green.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_red.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_blue.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_green.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_red.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_gameover.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_lives.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\spr_scorebar.xnb
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.wma
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.wma
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.wma
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form1.resources
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csproj.GenerateResource.Cache
+E:\others\Learnwf\Learnwf\Learnwf\bin\x86\Debug\Content\Titlepage.xnb
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form2.resources
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csprojResolveAssemblyReference.cache
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form3.resources
+E:\others\Learnwf\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form4.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\GameFont.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_background.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_blue.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_green.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_red.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_barrel.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_blue.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_green.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_red.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_blue.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_green.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_red.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_gameover.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_lives.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\spr_scorebar.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\Titlepage.xnb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.wma
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.wma
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.wma
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Learnwf.exe
+E:\others\Learnwf 2.0\Learnwf\Learnwf\bin\x86\Debug\Learnwf.pdb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csprojResolveAssemblyReference.cache
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form2.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csproj.GenerateResource.Cache
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.exe
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.pdb
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Learn.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Mainform.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.cprogram1.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.cprogram2.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.apti1.resources
+E:\others\Learnwf 2.0\Learnwf\Learnwf\obj\x86\Debug\Learnwf.apti2.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\GameFont.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_background.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_blue.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_green.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_red.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_barrel.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_blue.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_green.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_red.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_blue.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_green.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_red.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_gameover.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_lives.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_scorebar.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\Titlepage.xnb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.wma
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.wma
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.wma
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Learnwf.exe
+E:\others\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Learnwf.pdb
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csprojResolveAssemblyReference.cache
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.apti1.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.apti2.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.cprogram1.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.cprogram2.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form2.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Learn.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Mainform.resources
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csproj.GenerateResource.Cache
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.exe
+E:\others\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.pdb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\GameFont.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_background.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_blue.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_green.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_ball_red.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_barrel.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_blue.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_green.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_cannon_red.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_blue.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_green.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_can_red.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_gameover.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_lives.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\spr_scorebar.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\Titlepage.xnb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_collect_points.wma
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_music.wma
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Content\snd_shoot_paint.wma
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Learnwf.exe
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\bin\x86\Debug\Learnwf.pdb
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csprojResolveAssemblyReference.cache
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.apti1.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.apti2.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.cprogram1.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.cprogram2.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Form2.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Learn.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.Mainform.resources
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.csproj.GenerateResource.Cache
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.exe
+E:\others\learnwf final copy\Learnwf 2.1\Learnwf\Learnwf\obj\x86\Debug\Learnwf.pdb
